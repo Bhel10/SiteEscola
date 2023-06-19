@@ -17,8 +17,16 @@
     font-size: 24px;
 }
 .escola-imagem{
-width: 13%;
+    width: 13%;
 }
 .escola{
-background-image: linear-gradient(#383D58, #16867b);
+    background-image: linear-gradient(#383D58, #16867b);
+    color: white;
+    display: flex;
+}
+.escola-conteudo{
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
